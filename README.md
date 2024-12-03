@@ -4,6 +4,14 @@
 
 The **CSV to LLM Integration** project bridges structured data stored in CSV files with a powerful language model (LLM). This integration allows users to ask natural language questions about the data and receive accurate and insightful answers. The goal is to make data exploration and insights accessible to anyone, regardless of technical expertise.
 
+## Demo Video
+
+Watch the demo video to understand how the project works:
+
+[![CSV to LLM Demo]](https://www.loom.com/share/edcaa76e2969444c81033cdf877a005b?sid=a5eb878f-20ad-438e-b3a1-c02c8c8375a3)
+
+Click the thumbnail above to watch the video.
+
 ## Main Functionality
 
 - **Data Loading**: Import and process CSV files for analysis.
